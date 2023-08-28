@@ -8,4 +8,5 @@ train validation test csv files의 경로지정.
 python 'times_traintest.py' --train_path 'path.csv' --val_path 'path.csv' --test_path 'path.csv' --lr 0.001 --epochs 1 --batch_sizes 2
 스크립트 실행이후 현재 경로에 results.csv가 자동저장됨. 
 
-colab_example.ipynb 참고
+colab_example.ipynb   
+colab_example.py  참고   
