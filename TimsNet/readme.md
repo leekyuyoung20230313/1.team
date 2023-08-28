@@ -1,4 +1,4 @@
-Adjust configuration in timsnet_config.py
+Adjust configuration in times_config.py
 
 Get result from times_traintest.py. You need a path for train,val,test csv files 
 
