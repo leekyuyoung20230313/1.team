@@ -6,6 +6,7 @@
 %cd '/content/1.team/TimsNet'
 
 # ========== train, val, test 디렉토리 경로; lr, epochs, batch_sizes 설정 ======== #
+## sample data 사용 
 !python 'times_traintest.py' \
 --train_path '/content/1.team/TimsNet/sample_data/s_train1.csv'\
 '/content/1.team/TimsNet/sample_data/s_train2.csv'\ 
